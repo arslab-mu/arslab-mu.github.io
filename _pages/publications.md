@@ -8,9 +8,9 @@ author_profile: true
 
 ## Journal Papers
 
-- Güneş O. and **Arslan S.**, "A Function-Level Fault Injection and Machine Learning Framework for Reliability Analysis," in IEEE Access, vol. 14, pp. 56234-56253, 2026, doi: [10.1109/ACCESS.2026.3682878]
+- Güneş O. and **Arslan S.**, "A Function-Level Fault Injection and Machine Learning Framework for Reliability Analysis," in IEEE Access, vol. 14, pp. 56234-56253, 2026, doi: [10.1109/ACCESS.2026.3682878](https://doi.org/10.1109/ACCESS.2026.3682878)
   
-- **Arslan S.**, Graph Neural Network-Based Prediction of Soft Error Vulnerability and Criticality of Functions in Scientific Applications”, GU J Sci, Part A, vol. 12, no. 4, pp. 979–998, Dec. 2025, doi: [10.54287/gujsa.1766028]
+- **Arslan S.**, Graph Neural Network-Based Prediction of Soft Error Vulnerability and Criticality of Functions in Scientific Applications”, GU J Sci, Part A, vol. 12, no. 4, pp. 979–998, Dec. 2025, doi: [10.54287/gujsa.1766028](https://doi.org/10.54287/gujsa.1766028)
 
 - Altuntaş Z., **Arslan S.**, Boz B. “Approximate execution and grouping of critical sections for performance–accuracy tradeoff.” *Concurrency and Computation: Practice and Experience*, 2023. DOI: [10.1002/cpe.7614](https://doi.org/10.1002/cpe.7614)
 
