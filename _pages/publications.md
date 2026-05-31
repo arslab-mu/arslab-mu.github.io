@@ -30,6 +30,8 @@ author_profile: true
 
 ## Conference Papers
 
+- Karagül, M.T., Yozgat, E.M., Asıllıoğlu, F., **Arslan S.** (2026). On-Device Learning for Human Activity Recognition on Low-Power Microcontrollers. In: Koprinska, I., Mendes-Moreira, J., Branco, P. (eds) Machine Learning and Principles and Practice of Knowledge Discovery in Databases. ECML PKDD 2025. Communications in Computer and Information Science, vol 2840. Springer, Cham. DOI: [10.1007/978-3-032-19099-4_11](https://link.springer.com/chapter/10.1007/978-3-032-19099-4_11)
+  
 - Karakuş A. S., Göktaş O. B., Akgedik S., **Arslan S.** “Soft Error Reliability Assessment of TinyML Algorithms on STM32 Microcontroller.” *2024 9th International Conference on Computer Science and Engineering (UBMK)*, Antalya, Türkiye, Oct 26–28, 2024, pp. 660–664. DOI: [10.1109/UBMK63289.2024.10773488](https://doi.org/10.1109/UBMK63289.2024.10773488)
 
 - Öztürk Z., Topcuoğlu H. R., **Arslan S.**, Kandemir M. T. “Soft Error Characterization on Scientific Applications.” *2018 IEEE DASC/PiCom/DataCom/CyberSciTec*, pp. 592–599, 2018. DOI: 10.1109/DASC/PiCom/DataCom/CyberSciTec.2018.00109
