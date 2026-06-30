@@ -30,7 +30,7 @@ We are always looking for motivated graduate/undergraduate students interested i
   
 - **[26/01/26]** Orhan successfully defended his Master’s thesis. Congratulations!
 
-  <img src='/images/Orhan.jpeg' width="400" height="200">
+  <img src='/images/Orhan.jpeg' width="400" height="265">
   
 - **[15/09/25]** Talha and Ensar attended the [ECML-PKDD](https://ecmlpkdd.org/2025/) Conference in Porto, Portugal. Talha presented our recent study, “On-Device Learning for Human Activity Recognition on Low-Power Microcontrollers,” at the [ITEM Workshop](https://www.item-workshop.org/).
 
