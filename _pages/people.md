@@ -36,7 +36,7 @@ author_profile: true
 - Feyzullah Asıllıoğlu — Undergraduate Researcher
 - Erkut Dönmez — Undergraduate Researcher
 - Mert Muslu — Undergraduate Researcher
-- Gülsüm Ece Ronay — Undergraduate Researcher
+- Gülsüm Ece Günay — Undergraduate Researcher
 - Tolga Fehmioğlu — Undergraduate Researcher
 - Mehmet Toprak Balıkçı — Undergraduate Researcher
 - Muhammed Enes Gökdeniz — Undergraduate Researcher
