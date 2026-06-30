@@ -25,7 +25,8 @@ We are always looking for motivated graduate/undergraduate students interested i
 ## Recent News
 
 - **[18/06/26]** The graduation project by Alperen Zorba, Ömer Yıldırım, and Ömer Can Şimşek, titled “Evaluation of Parallelization Approaches in Graph Neural Networks for High-Performance Computing,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2026. Congratulations!
-  <img src='/images/bitirme-2026-odul.JPG' width="400" height="200">
+  
+  <img src='/images/bitirme-2026-odul.JPG' width="400" height="265">
   
 - **[26/01/26]** Orhan successfully defended his Master’s thesis. Congratulations!
 
