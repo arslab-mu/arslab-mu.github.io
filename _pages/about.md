@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Architectures for Resilient and Scalable Systems Laboratory (ARS-Lab) is a research group led by Assistant Professor Sanem Arslan Yılmaz at the [Computer Engineering Department](https://cse-eng.marmara.edu.tr/),  [Marmara University](https://www.marmara.edu.tr).
+ARS-Lab is a research group led by Assistant Professor Sanem Arslan Yılmaz at the [Computer Engineering Department](https://cse-eng.marmara.edu.tr/),  [Marmara University](https://www.marmara.edu.tr). Our research focuses on dependable AI, computer architecture, high-performance computing, embedded systems, and fault-tolerant computing.
 
 Our group focuses on various issues:
 
