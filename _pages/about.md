@@ -24,7 +24,7 @@ We are always looking for motivated graduate/undergraduate students interested i
 
 ## Recent News
 
-- **[10/09/26]** Sanem presented our recent study, “Binary Classification of Fault Injection Outcomes at the Function Level Using Hardware Performance Counters,” at [ASYU 2026](https://asyu2026.ozyegin.edu.tr/).
+- **[10/09/26]** Sanem presented our recent study, “Binary Classification of Fault Injection Outcomes at the Function Level Using Hardware Performance Counters,” at [ASYU 2026](https://asyu2026.ozyegin.edu.tr/en).
 
 - **[24/08/26]** Zuhal presented our recent study, “GNN-Based Compiler Optimization Selection: A Comparative Study of AST, CFG, and PDG Representations,” at the [GraphSys Workshop](https://graphsys.org/), a workshop co-located with [Euro-Par 2026](https://2026.euro-par.org/).
   
