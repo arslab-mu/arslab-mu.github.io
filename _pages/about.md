@@ -24,6 +24,10 @@ We are always looking for motivated graduate/undergraduate students interested i
 
 ## Recent News
 
+- **[10/09/26]** Sanem presented our recent study, “Binary Classification of Fault Injection Outcomes at the Function Level Using Hardware Performance Counters", at the [ASYU 2026](https://asyu2026.ozyegin.edu.tr/tr).
+
+- **[24/08/26]** Zuhal presented our recent study, “GNN-Based Compiler Optimization Selection: A Comparative Study of AST, CFG, and PDG Representations,” at the [GraphSys Workshop](https://easychair.org/smart-program/Euro-Par2026Workshops/).
+  
 - **[18/06/26]** The graduation project by Alperen Zorba, Ömer Yıldırım, and Ömer Can Şimşek, titled “Evaluation of Parallelization Approaches in Graph Neural Networks for High-Performance Computing,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2026. Congratulations!
   
   <img src='/images/bitirme-2026-odul.JPG' width="400" height="265">
