@@ -24,7 +24,7 @@ We are always looking for motivated graduate/undergraduate students interested i
 
 ## Recent News
 
-- **[20/10/26]** Sanem presented our recent study, “Component-Level Reliability Assessment of Graph Neural Networks under Soft Errors,” at the [AISQ Workshop](https://sites.google.com/view/aisq-2026/home)), a workshop co-located with [ISSRE 2026](https://cyprusconferences.org/issre2026/).
+- **[20/10/26]** Sanem presented our recent study, “Component-Level Reliability Assessment of Graph Neural Networks under Soft Errors,” at the [AISQ Workshop](https://sites.google.com/view/aisq-2026/home), a workshop co-located with [ISSRE 2026](https://cyprusconferences.org/issre2026/).
   
     <img src='/images/issre_2026.png' width="400" height="221">
   
