@@ -26,37 +26,39 @@ We are always looking for motivated graduate/undergraduate students interested i
 
 - **[29/10/26]** Canberk presented our recent study, “Evaluating Federated Learning Alternatives for Heterogeneous Clients on Resource-Constrained Microcontrollers,” at [FLTA 2026](https://flta-conference.org/flta-2026/).
   
-    <img src='/images/Presentation_FLTA2026_v2.jpeg' width="450" height="202">
+    <img src='/images/Presentation_FLTA2026_v2.jpeg' width="450" height="202"> <br><br>
     
 - **[20/10/26]** Sanem presented our recent study, “Component-Level Reliability Assessment of Graph Neural Networks under Soft Errors,” at [AISQ Workshop](https://sites.google.com/view/aisq-2026/home), a workshop co-located with [ISSRE 2026](https://cyprusconferences.org/issre2026/), held in Limassol, Cyprus.
   
-    <img src='/images/issre_2026.png' width="400" height="200">
+    <img src='/images/issre_2026.png' width="400" height="200"> <br><br>
   
-- **[10/09/26]** Sanem presented our recent study, “Binary Classification of Fault Injection Outcomes at the Function Level Using Hardware Performance Counters,” at [ASYU 2026](https://asyu2026.ozyegin.edu.tr/en).
+- **[10/09/26]** Sanem presented our recent study, “Binary Classification of Fault Injection Outcomes at the Function Level Using Hardware Performance Counters,” at [ASYU 2026](https://asyu2026.ozyegin.edu.tr/en). <br><br>
+  
 
-- **[24/08/26]** Zuhal presented our recent study, “GNN-Based Compiler Optimization Selection: A Comparative Study of AST, CFG, and PDG Representations,” at [GraphSys Workshop](https://graphsys.org/), a workshop co-located with [Euro-Par 2026](https://2026.euro-par.org/).
+- **[24/08/26]** Zuhal presented our recent study, “GNN-Based Compiler Optimization Selection: A Comparative Study of AST, CFG, and PDG Representations,” at [GraphSys Workshop](https://graphsys.org/), a workshop co-located with [Euro-Par 2026](https://2026.euro-par.org/). <br><br>
+  
   
 - **[18/06/26]** The graduation project by Alperen Zorba, Ömer Yıldırım, and Ömer Can Şimşek, titled “Evaluation of Parallelization Approaches in Graph Neural Networks for High-Performance Computing,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2026. Congratulations!
   
-  <img src='/images/bitirme-2026-odul.JPG' width="400" height="265">
+  <img src='/images/bitirme-2026-odul.JPG' width="400" height="265"><br><br>
   
 - **[26/01/26]** Orhan successfully defended his Master’s thesis. Congratulations!
 
-  <img src='/images/Orhan.jpeg' width="400" height="265">
+  <img src='/images/Orhan.jpeg' width="400" height="265"><br><br>
   
 - **[15/09/25]** Talha and Ensar attended the [ECML-PKDD](https://ecmlpkdd.org/2025/) Conference in Porto, Portugal. Talha presented our recent study, “On-Device Learning for Human Activity Recognition on Low-Power Microcontrollers,” at the [ITEM Workshop](https://www.item-workshop.org/).
 
-  <img src='/images/Talha.jpeg' width="400" height="200">
+  <img src='/images/Talha.jpeg' width="400" height="200"><br><br>
 
-- **[07/07/25]** Our project titled “A Region-Specific Approach to Program Soft Error Vulnerability Analysis, Estimation, and Enhancement” has been selected for funding by TÜBİTAK (The Scientific and Technological Research Council of Turkey) under the 3501 Career Development Project program 🥳
+- **[07/07/25]** Our project titled “A Region-Specific Approach to Program Soft Error Vulnerability Analysis, Estimation, and Enhancement” has been selected for funding by TÜBİTAK (The Scientific and Technological Research Council of Turkey) under the 3501 Career Development Project program 🥳<br><br>
 
 - **[16/06/25]** The graduation project by Muhammed Talha Karagül, Ensar Muhammet Yozgat, and Feyzullah Asıllıoğlu, titled “On-Device Learning for Human Activity Recognition on Low-Power Microcontrollers,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2025. Congratulations!
 
-  <img src='/images/bitirme-odul.jpeg' width="400" height="265">
+  <img src='/images/bitirme-odul.jpeg' width="400" height="265"><br><br>
 
 - **[10/06/24]** Sadık, Selim, and Sanem attended the [UBMK](https://ubmk.org.tr/) 2024 Conference in Antalya, Türkiye, where Sadık presented our study titled “Soft Error Reliability Assessment of TinyML Algorithms on STM32 Microcontroller.”
 
-  <img src='/images/ubmk.JPG' width="400" height="200">
+  <img src='/images/ubmk.JPG' width="400" height="200"><br><br>
  
 - **[10/06/24]** The graduation project by Sadık Akgedik, Osman Buğra Göktaş, and Ahmet Selim Karakuş, titled “Soft Error Reliability Assessment of TinyML Algorithms Executing on Embedded Devices,” supervised by Dr. Sanem Arslan Yılmaz, has been recognized as the Best Project in the Computer Engineering Department at Marmara University for 2024. Congratulations!
 
