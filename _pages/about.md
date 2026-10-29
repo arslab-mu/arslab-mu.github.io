@@ -26,11 +26,11 @@ We are always looking for motivated graduate/undergraduate students interested i
 
 - **[29/10/26]** Canberk presented our recent study, “Evaluating Federated Learning Alternatives for Heterogeneous Clients on Resource-Constrained Microcontrollers,” at [FLTA 2026](https://flta-conference.org/flta-2026/).
   
-    <img src='/images/Presentation_FLTA2026.jpeg' width="400" height="179">
+    <img src='/images/Presentation_FLTA2026.jpeg' width="450" height="202">
     
 - **[20/10/26]** Sanem presented our recent study, “Component-Level Reliability Assessment of Graph Neural Networks under Soft Errors,” at [AISQ Workshop](https://sites.google.com/view/aisq-2026/home), a workshop co-located with [ISSRE 2026](https://cyprusconferences.org/issre2026/), held in Limassol, Cyprus.
   
-    <img src='/images/issre_2026.png' width="400" height="221">
+    <img src='/images/issre_2026.png' width="400" height="200">
   
 - **[10/09/26]** Sanem presented our recent study, “Binary Classification of Fault Injection Outcomes at the Function Level Using Hardware Performance Counters,” at [ASYU 2026](https://asyu2026.ozyegin.edu.tr/en).
 
