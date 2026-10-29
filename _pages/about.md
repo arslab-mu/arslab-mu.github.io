@@ -24,7 +24,11 @@ We are always looking for motivated graduate/undergraduate students interested i
 
 ## Recent News
 
-- **[20/10/26]** Sanem presented our recent study, “Component-Level Reliability Assessment of Graph Neural Networks under Soft Errors,” at the [AISQ Workshop](https://sites.google.com/view/aisq-2026/home), a workshop co-located with [ISSRE 2026](https://cyprusconferences.org/issre2026/).
+- **[29/10/26]** Canberk presented our recent study, “Evaluating Federated Learning Alternatives for Heterogeneous Clients on Resource-Constrained Microcontrollers,” at the [FLTA 2026](https://flta-conference.org/flta-2026/).
+  
+    <img src='/images/Presentation_FLTA2026.jpeg' width="400" height="179">
+    
+- **[20/10/26]** Sanem presented our recent study, “Component-Level Reliability Assessment of Graph Neural Networks under Soft Errors,” at the [AISQ Workshop](https://sites.google.com/view/aisq-2026/home), a workshop co-located with [ISSRE 2026](https://cyprusconferences.org/issre2026/), held in Limassol, Cyprus.
   
     <img src='/images/issre_2026.png' width="400" height="221">
   
